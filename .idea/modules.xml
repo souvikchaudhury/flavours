@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fcc.iml" filepath="$PROJECT_DIR$/Fcc.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fccvolley/fccvolley.iml" filepath="$PROJECT_DIR$/fccvolley/fccvolley.iml" />
     </modules>
   </component>
 </project>
